@@ -36,9 +36,9 @@ On the Audi e-tron you can set recuperation to manual (MMI -> Vehicle -> Efficie
 
 You can set the recuperation to 3 different levels with the wheel paddles. (for more or less braking). High, medium, and off.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Left paddle to reduce regen.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Left paddle to increase regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to increase regen.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to reduce regen.")
 
 ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "This shows how the regen is on 50% on max.")
 
